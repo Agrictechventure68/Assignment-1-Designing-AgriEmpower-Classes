@@ -1,4 +1,4 @@
-# AssignmWe'll designing classes that represent key aspects of my agri_empower_learning app.
+# Assignment: Designing classes that represent key aspects of my agri_empower_learning app.
 
 STAGE 1: DEFINING THE BASE CLASS - USER
 
